@@ -18,7 +18,7 @@
 
 
 #my path
-#setwd("C:/Users/desau/Desktop/FRI Data Analyst application/dataverse_files") 
+#setwd("C:/Users/desau/Desktop/...") 
 setwd("PATH/TO/YOUR/DATA/FOLDER")
 #change only the path above before running the script:
 
