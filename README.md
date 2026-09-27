@@ -1,4 +1,3 @@
-markdown
 # Forecast Aggregation & Model Evaluation
 
 Improving crowd-forecast accuracy by combining forecaster track record and 
